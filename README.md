@@ -52,4 +52,4 @@ Si tienes alguna pregunta o encuentras algún problema con el plugin, por favor,
 == Enlaces útiles ==
 
 - [Página del plugin en WordPress.org](https://wordpress.org/plugins/xmlrpc-blocker/)
-- [Repositorio del plugin en GitHub](https://github.com/tuusuario/xmlrpc-blocker/)
+- [Repositorio del plugin en GitHub] https://github.com/SNHC-Dev/Wordpress 
