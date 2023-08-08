@@ -49,7 +49,6 @@ Si tienes alguna pregunta o encuentras algún problema con el plugin, por favor,
 = 1.0 =
 * Versión inicial del plugin "Bloqueo de XML-RPC".
 
-== Enlaces útiles ==
 
-- [Página del plugin en WordPress.org](https://wordpress.org/plugins/xmlrpc-blocker/)
-- [Repositorio del plugin en GitHub] https://github.com/SNHC-Dev/Wordpress 
+
+
